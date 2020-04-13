@@ -1,0 +1,13 @@
+var shopper = {
+   name: "Brandon"
+   age: 34,
+   isDieting: true,
+
+   person: function() {
+      return this name
+   },
+   groceries: ["bananas", "broccoli", "water"]
+
+} 
+
+console.log(shopper.person());
